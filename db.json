@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "name": "aly",
+      "username": "aly",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "id": 1
+    },
+    {
+      "name": "Alyson",
+      "username": "retanaaly@gmail.com",
+      "password": "03eed82d415d8bab52b769e3faaee60c",
+      "id": 2
+    },
+    {
+      "name": "dayam",
+      "username": "dayam",
+      "password": "01cfcd4f6b8770febfb40cb906715822",
+      "id": 3
+    },
+    {
+      "name": "pepito",
+      "username": "pepito",
+      "password": "32164702f8ffd2b418d780ff02371e4c",
+      "id": 4
+    },
+    {
+      "name": "alexander",
+      "username": "alexander",
+      "password": "17434cf0d4ba816cd776ff8b0ec532f1",
+      "id": 5
+    },
+    {
+      "name": "usuarios",
+      "username": "usuarios",
+      "password": "0cc175b9c0f1b6a831c399e269772661",
+      "id": 6
+    }
+  ]
+}
